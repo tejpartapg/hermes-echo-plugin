@@ -1,0 +1,6 @@
+name: echo-plugin
+version: "1.0.0"
+description: Simple local test tool for Hermes
+
+provides_tools:
+  - echo_text
